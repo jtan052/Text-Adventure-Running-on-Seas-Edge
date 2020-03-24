@@ -6,4 +6,4 @@ This section of the course covers scriptable objects, text objects, canvas objec
 and state machines. Running on Sea's Edge is a practice of using state machines to map out an entire text adventure, and using the
 tools Unity provides in order to load different scenes dependent on the player choice.
 
-To play, see TextAdventureFantasy > Builds > Build > TextAdventureFantasy
+To play, see TextAdventureFantasy > RunningOnSeasEdgePCBuild > TextAdventureFantasy.exe
