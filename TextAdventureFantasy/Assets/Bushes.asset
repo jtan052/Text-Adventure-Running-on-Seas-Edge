@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 881904c67c2e8e34a9aa5d38daceaaf5, type: 3}
+  m_Name: Bushes
+  m_EditorClassIdentifier: 
+  storyText: 'Looking back, you seriously wonder why you thought hiding behind bushes
+    was a smart idea. One the mages spotted you, only after the rest had passed you.
+    It didn''t seem like he recognized a face in the bushes, but he was checking
+    nonethless.
+
+
+    1) Abandon your spot and jump
+
+    2) Keep still. Try to take
+    the mage out silently.'
+  nextStates:
+  - {fileID: 11400000, guid: 6b0359cbb95e2404aa6726aba1ef2580, type: 2}
+  - {fileID: 11400000, guid: 705a69e068a27f04792ff25a38194290, type: 2}

@@ -1,0 +1,6 @@
+You're standing on the edge of a rocky cliff, waves crash against the treacherous jagged shoreline below.
+Behind you, your pursuers sling magic and arrows and already the ones wielding swords come closer.
+
+What's your move?
+1) There's a section of calm water below it's tight but you might make it.
+2) Try your chances running away at the edge of the cliff. There might be a safer way down.

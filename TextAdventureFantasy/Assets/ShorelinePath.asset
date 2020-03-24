@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 881904c67c2e8e34a9aa5d38daceaaf5, type: 3}
+  m_Name: ShorelinePath
+  m_EditorClassIdentifier: 
+  storyText: "The cave looked much too ominous for your tastes. You follow the path
+    backward and find a band of sea theives unloading crates and treasure. This must
+    be their hideout! \n\nThe lookout perched on their ship's crow's nest shouted
+    something and all the theives turned your direction. Before you can react tendrils
+    of water restrain you.\n\nThe theives' glinting curved swords matched their smiles.\n\nYou
+    lose!\n\n1) Restart"
+  nextStates:
+  - {fileID: 11400000, guid: 388339bfba462eb44a847450e9f0d2f7, type: 2}

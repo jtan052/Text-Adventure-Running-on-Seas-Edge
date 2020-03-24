@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 881904c67c2e8e34a9aa5d38daceaaf5, type: 3}
+  m_Name: StartingState
+  m_EditorClassIdentifier: 
+  storyText: "You're standing on the edge of a rocky cliff, waves crash against the
+    treacherous jagged shoreline below.\r Behind you, your pursuers sling magic and
+    arrows and already the ones wielding swords come closer. There's an old lightbridge
+    jutting out of the cliff. It doesn't lead anywhere but you might be able to jump
+    far enough past the shore to avoid certain death below. \r\n\r\nWhat's your move?\r\n1)
+    Take the lightbridge. Running on land won't get you out of this one.\r\n2) Try
+    your chances running away at the edge of the cliff. There might be a safer way
+    down."
+  nextStates:
+  - {fileID: 11400000, guid: 921d7f3d33e2aee43b251da06ff64f76, type: 2}
+  - {fileID: 11400000, guid: 1e10eaca62a7428489eac2ecda4f2d08, type: 2}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 881904c67c2e8e34a9aa5d38daceaaf5, type: 3}
+  m_Name: Lightbridge
+  m_EditorClassIdentifier: 
+  storyText: 'The hardlight below your feet has seen better days. It''s nearly fading
+    from beneath you. You eat away the distance and suddenly you''re past the shore
+    below you. You take a moment to breathe, peering at the rough water below.
+
+    But,
+    maybe there was another way? The water was rougher than you expected. You swear
+    you saw a calm tidepool deep enough for a jump as you were sprinting earlier.
+    If you double back you might make it, it might be safer than the waters below.
+
+    
+
+    1)
+    No time, just jump!
+
+    2) Double back and risk the jump closer to the shoreline.'
+  nextStates:
+  - {fileID: 11400000, guid: 8d1942b48afe0aa43ae52c9b85a5dfc7, type: 2}
+  - {fileID: 11400000, guid: a37cf070d4667d144852c2e6d730ee1d, type: 2}

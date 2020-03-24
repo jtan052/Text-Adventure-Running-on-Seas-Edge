@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 881904c67c2e8e34a9aa5d38daceaaf5, type: 3}
+  m_Name: AlongCliff
+  m_EditorClassIdentifier: 
+  storyText: "You're not risking it. You run straight for the cliff and your pursuers
+    slow down anticipating a suicidal leap of faith but before anyone could react
+    you turn at a dime and run alongside the edge. The confusion bought you precious
+    seconds.\n\nAn abandoned lighthouse, partially demolished, lay up ahead. Past
+    it, the cliff was bare as far as you could see. To your right, you find bushes
+    hiding a section carved off the cliff face.\n\n1) Stop at the lighthouse. At
+    that height, there might be old magic gliders about. \n2) Step down to the cliff,
+    hiding behind the bushes and hope your pursuers try the lighthouse."
+  nextStates:
+  - {fileID: 11400000, guid: 2b74e71cd3a361546aba9c56b63e8564, type: 2}
+  - {fileID: 11400000, guid: d62b294c8be18e04bb6b04a2c707fe17, type: 2}
