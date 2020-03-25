@@ -7,4 +7,4 @@ and state machines. Running on Sea's Edge is a practice of using state machines 
 tools Unity provides in order to load different scenes dependent on the player choice.
 
 To play, see TextAdventureFantasy > RunningOnSeasEdgePCBuild > TextAdventureFantasy.exe
-(/RunningonSeasEdgeFlow(1).pdf)
+(./RunningonSeasEdgeFlow(1).pdf)
